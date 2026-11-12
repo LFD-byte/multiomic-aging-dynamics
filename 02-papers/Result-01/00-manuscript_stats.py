@@ -31,8 +31,8 @@ Age-trend heatmap (informational):
 
 Usage
 -----
-    python manuscript_stats.py
-    python manuscript_stats.py --hpp-datasets-dir D:/hpp_datasets --outputs-dir ../../old/outputs
+    python 00-manuscript_stats.py
+    python 00-manuscript_stats.py --hpp-datasets-dir /path/to/hpp_datasets --outputs-dir /path/to/outputs
 
 Writes ``outputs/manuscript_stats/manuscript_stats.{txt,csv,json}`` and exits
 with code 1 if any check FAILs.
