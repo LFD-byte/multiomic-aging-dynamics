@@ -22,7 +22,7 @@ transcriptomics_pathway/similarity_network/network_summary_by_crest.csv
 lipid_pathway/{crest_lipid_selection_summary,lion_custom_statistic_summary,
                lion_age_48_two_sided_result}.csv  03_* scripts / LION web
 microbiome_pathway_enrichment/age48_oral_microbiome_window_7p5_*.csv
-                                                  04-oral_microbiomet_pathway.ipynb
+                                                  04-oral_microbiome_pathway.ipynb
 05-crest_system_association/{crest_feature_counts,indicator_catalog,
                top10_plot_data,all_indicators_by_crest}.csv
                                                   05-crest_system_association.py
